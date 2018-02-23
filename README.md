@@ -1,8 +1,7 @@
-# type test
+# Typing Accuracy Test
 
-Calculates user typing speed and accuracy.
+Returns a user speed and accuracy.
 
 ## to do
-
 * improve results view
 * swap hardcoded paragraphs for something more customizable/interesting to users
